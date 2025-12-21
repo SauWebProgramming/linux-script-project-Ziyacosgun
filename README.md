@@ -32,3 +32,9 @@ chmod +x monitor.sh
 ```bash
 * * * * * /bin/bash /home/kali/Desktop/bilisimodev/monitor.sh
 ```
+
+
+### youtube video linki:
+
+ https://youtu.be/DRZBUI-hoJE
+ 
